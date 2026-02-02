@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyGame cache
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Assets temporários
+*.tmp
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
